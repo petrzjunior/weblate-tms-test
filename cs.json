@@ -1,2 +1,7 @@
 {
+    "button": {
+        "save_0": "uložit {{count}} změnu",
+        "save_1": "uložit {{count}} změny",
+        "save_2": "uložit {{count}} změn"
+    }
 }

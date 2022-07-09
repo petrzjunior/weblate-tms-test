@@ -2,5 +2,10 @@
     "button": {
         "save": "save {{count}} change",
         "save_plural": "save {{count}} changes"
+    },
+    "nav": {
+        "home": "home",
+        "page1": "page one",
+        "page2": "page two"
     }
 }
